@@ -3,6 +3,10 @@
 React와 Vite를 사용하여 구축된 모던한 쇼핑몰 프론트엔드 프로젝트입니다.
 깔끔한 디자인과 컴포넌트 기반 아키텍처를 특징으로 하며, 기본적인 상품 목록과 랜딩 페이지 레이아웃을 제공합니다.
 
+## 🚀 배포 URL
+
+https://shoppingmall-0202.vercel.app
+
 ## 🛠 기술 스택 (Tech Stack)
 
 - **Core**: React 19, TypeScript
